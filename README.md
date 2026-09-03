@@ -4,7 +4,7 @@ A personal portfolio website highlighting my background, technical skills, cours
 
 ## Live Website
 
-[View my portfolio](https://a01-personal-porfolio-srineet.vercel.app/)
+[View my portfolio](https://srineetmanikonda.vercel.app/)
 
 ## About Me
 
